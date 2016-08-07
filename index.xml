@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Martynas site</title>
+    <title>MM Workshop</title>
     <link>https://magniffico.github.io/</link>
-    <description>Recent content on Martynas site</description>
+    <description>Recent content on MM Workshop</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 06 Aug 2016 23:59:46 +0100</lastBuildDate>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 07 Aug 2016 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://magniffico.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>great entry</title>
-      <link>https://magniffico.github.io/blog/great-entry/</link>
-      <pubDate>Sat, 06 Aug 2016 23:59:46 +0100</pubDate>
+      <title>Yo Universe!</title>
+      <link>https://magniffico.github.io/blog/yo-universe/</link>
+      <pubDate>Sun, 07 Aug 2016 09:00:00 +0100</pubDate>
       
-      <guid>https://magniffico.github.io/blog/great-entry/</guid>
-      <description>&lt;p&gt;Some interesting text. blah blah blah.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>great entry2</title>
-      <link>https://magniffico.github.io/article/great-entry2/</link>
-      <pubDate>Sat, 06 Aug 2016 23:59:46 +0100</pubDate>
-      
-      <guid>https://magniffico.github.io/article/great-entry2/</guid>
-      <description>&lt;p&gt;Some interesting text. blah blah blah.&lt;/p&gt;
+      <guid>https://magniffico.github.io/blog/yo-universe/</guid>
+      <description>&lt;p&gt;Yo Universe! This is my first entry to this blog.&lt;/p&gt;
+
+&lt;p&gt;This entry is like an &amp;lsquo;about me&amp;rsquo; page. It will be updated from time to time. Although I will try to keep it as close to the original as possible.&lt;/p&gt;
+
+&lt;p&gt;My name is Martynas Melninkas and I am a programmer. I find &lt;em&gt;programmer&lt;/em&gt; the easiest term to identify what I do. This is due to the ambiguous nature of terms &amp;lsquo;Software Engineer&amp;rsquo;, &amp;lsquo;Software Developer&amp;rsquo;, &amp;lsquo;DevOp&amp;rsquo;, &amp;lsquo;Web Developer&amp;rsquo;, &amp;lsquo;Back-end Developer&amp;rsquo;, and &amp;lsquo;Full-Stack developer&amp;rsquo;. Can I be one and the other? What about all of them? Are they all paid the same (in this case - nope)? While in some cases these terms can identify what are your main responsibilities at a particular company, I find interest in all of them. Also, I strongly believe that one is exactly as important as the other, especially in the world with &amp;lsquo;Internet of Things&amp;rsquo; proposed.&lt;/p&gt;
+
+&lt;p&gt;In addition to the programming stories there will be an occasional post about politics and life. I would like to justify why I think the former is important. Politics is complicated therefore interesting. Politics is a tool. Politics is a tool to change the world, to the good, the bad and the ugly. And we are the ones responsible, we are the ones to make change or make-no-change. We have to realise that a &lt;em&gt;nop&lt;/em&gt; is also in action, a choice. It is up to us to move forward. And I am just a bloke who will try to make some sense out of it all.&lt;/p&gt;
+
+&lt;p&gt;See you on another post.&lt;/p&gt;
+
+&lt;p&gt;P.S. I am adding an interesting picture for you. Investigate to find more! Hint: TedX&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://magniffico.github.io/img/interesting_1.png&#34; alt=&#34;Hint: TedX&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
