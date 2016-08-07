@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://magniffico.github.io/</loc>
+    <lastmod>2016-08-06T23:59:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://magniffico.github.io/blog/great-entry/</loc>
+    <lastmod>2016-08-06T23:59:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://magniffico.github.io/article/great-entry2/</loc>
+    <lastmod>2016-08-06T23:59:46+01:00</lastmod>
+  </url>
+  
+</urlset>
